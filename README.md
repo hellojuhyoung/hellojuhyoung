@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   My journey in development is driven by a curiosity for how things work and a passion for turning complex problems into intuitive solutions. I enjoy diving deep into both front-end aesthetics and back-end logic, constantly learning new technologies to build efficient and user-friendly experiences.
 </p>
 
-- 👨‍💻 You can explore a variety of my projects, ranging from full-stack web applications to specific module implementations, right here on my GitHub profile: [https://github.com/hellojuhyoung](https://github.com/hellojuhyoung)
+Key Projects
+Project 0: A front-end clone of the Google search page built with HTML5 and CSS3, featuring a dynamic dropdown menu implemented with JavaScript. This project demonstrates skills in semantic page layout and high-fidelity UI replication. [https://github.com/hellojuhyoung/project0_google]
 
 
 ---
