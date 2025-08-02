@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <b>Mini Project 2: Image Register MySQL (MVC Web Application)</b><br>
-  An e-commerce item registration application built using the MVC pattern with Node.js, Express.js, and EJS. It features CRUD operations for items, with image uploads handled by Multer and data persisted in a MySQL database.<br>
+  An e-commerce item registration application built using the MVC pattern with Node.js, Express.js, and EJS. It features CRUD operations for items, with image uploads handled by Multer and data persisted in a MySQL database (managed with MySQL Workbench).<br>
   <b>GitHub:</b> <a href="https://github.com/hellojuhyoung/miniProject2_imageRegister_mysql" target="_blank" rel="noreferrer">https://github.com/hellojuhyoung/miniProject2_imageRegister_mysql</a>
 </p>
 
@@ -87,8 +87,8 @@ Here are some ideas to get you started:
   
   <br><br>
   
-  <b>Databases:</b> &nbsp; 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <b>Databases:</b> &nbsp; 
+  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql workbench" width="40" height="40"/> </a>
   
   <br><br>
   
