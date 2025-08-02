@@ -25,9 +25,38 @@ Here are some ideas to get you started:
   My journey in development is driven by a curiosity for how things work and a passion for turning complex problems into intuitive solutions. I enjoy diving deep into both front-end aesthetics and back-end logic, constantly learning new technologies to build efficient and user-friendly experiences.
 </p>
 
-Key Projects
-Project 0: A front-end clone of the Google search page built with HTML5 and CSS3, featuring a dynamic dropdown menu implemented with JavaScript. This project demonstrates skills in semantic page layout and high-fidelity UI replication. [https://github.com/hellojuhyoung/project0_google]
+<h3 align="left">Key Projects:</h3>
 
+<p align="left">
+  <b>Project 0: Google Main Page Clone (Front-End Recreation)</b> <br>
+  A front-end clone of the Google search page built with HTML5, CSS3, and JavaScript. This project demonstrates skills in semantic page layout and high-fidelity UI replication.<br>
+  <b>GitHub:</b> <a href="https://github.com/hellojuhyoung/project0_google" target="_blank" rel="noreferrer">https://github.com/hellojuhyoung/project0_google</a>
+</p>
+
+<p align="left">
+  <b>Project 1: Hyundai Website (Front-End Recreation)</b><br>
+  A front-end recreation of the Hyundai global website using HTML5, CSS3, and JavaScript. This project showcases responsive design, multi-page navigation, and interactive UI elements like video slideshows and image galleries.<br>
+  <b>GitHub:</b> <a href="https://github.com/hellojuhyoung/project1_hyundai" target="_blank" rel="noreferrer">https://github.com/hellojuhyoung/project1_hyundai</a>
+</p>
+
+<p align="left">
+  <b>Mini Project 1: Signup Page (User Authentication Prototype)</b><br>
+  A user authentication prototype built with Node.js, Express.js, and EJS. This project demonstrates fundamental concepts of web application development, including server-side rendering, user registration, and data persistence using Web Storage.<br>
+  <b>GitHub:</b> <a href="https://github.com/hellojuhyoung/miniProject1_signup_page" target="_blank" rel="noreferrer">https://github.com/hellojuhyoung/miniProject1_signup_page</a>
+</p>
+
+<p align="left">
+  <b>Mini Project 2: Image Register MySQL (MVC Web Application)</b><br>
+  An e-commerce item registration application built using the MVC pattern with Node.js, Express.js, and EJS. It features CRUD operations for items, with image uploads handled by Multer and data persisted in a MySQL database.<br>
+  <b>GitHub:</b> <a href="https://github.com/hellojuhyoung/miniProject2_imageRegister_mysql" target="_blank" rel="noreferrer">https://github.com/hellojuhyoung/miniProject2_imageRegister_mysql</a>
+</p>
+
+<p align="left">
+  <b>Project 2: JL Forum (Full-Stack Web Application)</b><br>
+  A full-stack forum application using Next.js (React), TypeScript, Node.js, and Express.js. This project features user authentication with Passport.js, RESTful APIs for CRUD operations, a MySQL database with Sequelize ORM, and deployment on AWS Amplify and AWS Elastic Beanstalk.<br>
+  <b>Frontend GitHub:</b> <a href="https://github.com/hellojuhyoung/project2_forum_frontend" target="_blank" rel="noreferrer">https://github.com/hellojuhyoung/project2_forum_frontend</a><br>
+  <b>Backend GitHub:</b> <a href="https://github.com/hellojuhyoung/project2_forum_backend" target="_blank" rel="noreferrer">https://github.com/hellojuhyoung/project2_forum_backend</a>
+</p>
 
 ---
 
